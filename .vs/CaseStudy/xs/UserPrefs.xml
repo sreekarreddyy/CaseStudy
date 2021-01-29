@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BFEA580B-302C-494D-836D-61B09B1897B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.CaseStudy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CaseStudy/Controllers/OrderController.cs">
+    <Files>
+      <File FileName="CaseStudy/Controllers/MenuItemsController.cs" Line="23" Column="1" />
+      <File FileName="CaseStudy/Models/MenuItem.cs" Line="29" Column="2" />
+      <File FileName="CaseStudy/Models/Cart.cs" Line="18" Column="1" />
+      <File FileName="CaseStudy/Controllers/OrderController.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CaseStudy" expanded="True">
+            <Node name="CaseStudy" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrderController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
